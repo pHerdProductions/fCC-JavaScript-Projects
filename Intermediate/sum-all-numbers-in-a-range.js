@@ -1,4 +1,4 @@
-// Returns the total of all numbers including and between 2 integers
+// Returns the total of all numbers including and between two integers
 function sumAll(arr) {
   
   // Declare variables
