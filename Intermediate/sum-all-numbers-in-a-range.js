@@ -13,4 +13,5 @@ function sumAll(arr) {
   
   // Return our total sum
   return sum;
+  
 }
